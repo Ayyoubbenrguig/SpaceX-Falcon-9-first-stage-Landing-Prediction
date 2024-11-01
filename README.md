@@ -2,6 +2,8 @@
 
 This project aims to predict the likelihood of a successful landing for the SpaceX Falcon 9 rocket's first stage. By determining whether the first stage will land successfully, we can estimate the cost of a launch. This analysis can be valuable for companies competing with SpaceX in the space launch market.
 
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
+
 ## Project Overview
 
 Using data from various sources, we analyzed SpaceX launch data to understand the factors contributing to a successful first-stage landing. The project involved data collection, cleaning, exploration, and predictive modeling. The findings suggest that SpaceX's success rate has been improving over time, especially for heavy payloads in certain orbits.
